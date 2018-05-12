@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40468
     wikipedia: http://fr.wikipedia.org/wiki/Alcide_de_Beauchesne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42463#La-Vie-de-Madame--lisabeth-soeur-de-Louis-XVI-Volume-2
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2013-04-03'
 gutenberg_type: Text
